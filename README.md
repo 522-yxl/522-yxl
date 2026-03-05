@@ -1,6 +1,10 @@
+🖐️你好我叫吳珮筠
 
+🏠我來自嘉義
 
+❤️我的興趣是追星
 
+🐕我最喜歡的動物是狗
 
 
 
@@ -9,10 +13,10 @@
 
 Here are some ideas to get you started:
 
-- 🖐️你好我叫吳珮筠
-- 🏠我來自嘉義
-- ❤️我的興趣是追星
-- 🐕我最喜歡的動物是狗
+- 
+-
+- 
+- 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
